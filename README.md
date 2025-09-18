@@ -272,9 +272,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-- 📧 Email: support@ai-finance-platform.com
-- 💬 Discord: [Community Server](https://discord.gg/your-server)
-- 📚 Documentation: [Full Documentation](https://docs.ai-finance-platform.com)
+- 📧 Email: chitti852852@gmail.com
 
 ## 🎯 Roadmap
 
