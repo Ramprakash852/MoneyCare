@@ -1,4 +1,5 @@
-# MoneyCare
+# [MoneyCare 🔗](https://money-care.vercel.app/)
+
 
 MoneyCare is your AI-powered financial companion — helping you track spending, analyze habits, and optimize your finances with smart insights, real-time alerts, and automated reports. Built for simplicity, security, and smarter money management.
 
